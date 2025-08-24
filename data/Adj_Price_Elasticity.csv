@@ -1,0 +1,26 @@
+Country,Bike_Model,Elasticity,R_squared,N_obs,Comp_Intensity
+Bangladesh,Avenger 160,-1.601,0.092,12,0.708
+Bangladesh,CT100,-2.71,0.175,12,0.708
+Bangladesh,Dominar 400,-0.765,0.019,12,0.708
+Bangladesh,Platina 110,-0.027,0,12,0.708
+Bangladesh,Pulsar NS200,-0.545,0.011,12,0.708
+Colombia,Avenger 160,-1.215,0.033,12,0.606
+Colombia,CT100,1.253,0.021,12,0.606
+Colombia,Dominar 400,-1.195,0.02,12,0.606
+Colombia,Platina 110,-0.885,0.025,12,0.606
+Colombia,Pulsar NS200,0.823,0.074,12,0.606
+Egypt,Avenger 160,-0.504,0.386,12,0.448
+Egypt,CT100,-0.989,0.025,12,0.448
+Egypt,Dominar 400,-1.073,0.076,12,0.448
+Egypt,Platina 110,-2.19,0.235,12,0.448
+Egypt,Pulsar NS200,-0.304,0.005,12,0.448
+Nigeria,Avenger 160,-0.671,0.004,12,0.587
+Nigeria,CT100,-0.751,0.052,12,0.587
+Nigeria,Dominar 400,-0.561,0.005,12,0.587
+Nigeria,Platina 110,-3.467,0.443,12,0.587
+Nigeria,Pulsar NS200,-0.879,0.059,12,0.587
+Philippines,Avenger 160,-1.798,0.05,12,0.715
+Philippines,CT100,-1.659,0.028,12,0.715
+Philippines,Dominar 400,-0.307,0.004,12,0.715
+Philippines,Platina 110,-4.316,0.212,12,0.715
+Philippines,Pulsar NS200,-1.91,0.047,12,0.715

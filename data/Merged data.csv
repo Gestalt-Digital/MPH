@@ -1,0 +1,151 @@
+Country,Bike_Model,Quarter,Sales_Units,A_F
+Nigeria,Pulsar NS200,Q1-2025,559,A
+Nigeria,Pulsar NS200,Q2-2025,483,A
+Nigeria,Pulsar NS200,Q3-2024,577,A
+Nigeria,Pulsar NS200,Q4-2024,682,A
+Nigeria,Dominar 400,Q1-2025,471,A
+Nigeria,Dominar 400,Q2-2025,471,A
+Nigeria,Dominar 400,Q3-2024,689,A
+Nigeria,Dominar 400,Q4-2024,592,A
+Nigeria,CT100,Q1-2025,443,A
+Nigeria,CT100,Q2-2025,565,A
+Nigeria,CT100,Q3-2024,444,A
+Nigeria,CT100,Q4-2024,444,A
+Nigeria,Avenger 160,Q1-2025,529,A
+Nigeria,Avenger 160,Q2-2025,270,A
+Nigeria,Avenger 160,Q3-2024,293,A
+Nigeria,Avenger 160,Q4-2024,432,A
+Nigeria,Platina 110,Q1-2025,378,A
+Nigeria,Platina 110,Q2-2025,537,A
+Nigeria,Platina 110,Q3-2024,391,A
+Nigeria,Platina 110,Q4-2024,330,A
+Philippines,Pulsar NS200,Q1-2025,675,A
+Philippines,Pulsar NS200,Q2-2025,472,A
+Philippines,Pulsar NS200,Q3-2024,508,A
+Philippines,Pulsar NS200,Q4-2024,329,A
+Philippines,Dominar 400,Q1-2025,434,A
+Philippines,Dominar 400,Q2-2025,513,A
+Philippines,Dominar 400,Q3-2024,361,A
+Philippines,Dominar 400,Q4-2024,545,A
+Philippines,CT100,Q1-2025,427,A
+Philippines,CT100,Q2-2025,464,A
+Philippines,CT100,Q3-2024,427,A
+Philippines,CT100,Q4-2024,722,A
+Philippines,Avenger 160,Q1-2025,498,A
+Philippines,Avenger 160,Q2-2025,373,A
+Philippines,Avenger 160,Q3-2024,598,A
+Philippines,Avenger 160,Q4-2024,353,A
+Philippines,Platina 110,Q1-2025,525,A
+Philippines,Platina 110,Q2-2025,264,A
+Philippines,Platina 110,Q3-2024,340,A
+Philippines,Platina 110,Q4-2024,523,A
+Colombia,Pulsar NS200,Q1-2025,588,A
+Colombia,Pulsar NS200,Q2-2025,520,A
+Colombia,Pulsar NS200,Q3-2024,486,A
+Colombia,Pulsar NS200,Q4-2024,463,A
+Colombia,Dominar 400,Q1-2025,322,A
+Colombia,Dominar 400,Q2-2025,413,A
+Colombia,Dominar 400,Q3-2024,444,A
+Colombia,Dominar 400,Q4-2024,626,A
+Colombia,CT100,Q1-2025,541,A
+Colombia,CT100,Q2-2025,288,A
+Colombia,CT100,Q3-2024,538,A
+Colombia,CT100,Q4-2024,453,A
+Colombia,Avenger 160,Q1-2025,418,A
+Colombia,Avenger 160,Q2-2025,573,A
+Colombia,Avenger 160,Q3-2024,623,A
+Colombia,Avenger 160,Q4-2024,611,A
+Colombia,Platina 110,Q1-2025,399,A
+Colombia,Platina 110,Q2-2025,462,A
+Colombia,Platina 110,Q3-2024,539,A
+Colombia,Platina 110,Q4-2024,617,A
+Egypt,Pulsar NS200,Q1-2025,442,A
+Egypt,Pulsar NS200,Q2-2025,477,A
+Egypt,Pulsar NS200,Q3-2024,367,A
+Egypt,Pulsar NS200,Q4-2024,356,A
+Egypt,Dominar 400,Q1-2025,597,A
+Egypt,Dominar 400,Q2-2025,662,A
+Egypt,Dominar 400,Q3-2024,491,A
+Egypt,Dominar 400,Q4-2024,620,A
+Egypt,CT100,Q1-2025,543,A
+Egypt,CT100,Q2-2025,422,A
+Egypt,CT100,Q3-2024,543,A
+Egypt,CT100,Q4-2024,684,A
+Egypt,Avenger 160,Q1-2025,495,A
+Egypt,Avenger 160,Q2-2025,687,A
+Egypt,Avenger 160,Q3-2024,185,A
+Egypt,Avenger 160,Q4-2024,598,A
+Egypt,Platina 110,Q1-2025,510,A
+Egypt,Platina 110,Q2-2025,464,A
+Egypt,Platina 110,Q3-2024,511,A
+Egypt,Platina 110,Q4-2024,261,A
+Bangladesh,Pulsar NS200,Q1-2025,473,A
+Bangladesh,Pulsar NS200,Q2-2025,542,A
+Bangladesh,Pulsar NS200,Q3-2024,677,A
+Bangladesh,Pulsar NS200,Q4-2024,437,A
+Bangladesh,Dominar 400,Q1-2025,402,A
+Bangladesh,Dominar 400,Q2-2025,439,A
+Bangladesh,Dominar 400,Q3-2024,609,A
+Bangladesh,Dominar 400,Q4-2024,539,A
+Bangladesh,CT100,Q1-2025,436,A
+Bangladesh,CT100,Q2-2025,561,A
+Bangladesh,CT100,Q3-2024,511,A
+Bangladesh,CT100,Q4-2024,616,A
+Bangladesh,Avenger 160,Q1-2025,415,A
+Bangladesh,Avenger 160,Q2-2025,460,A
+Bangladesh,Avenger 160,Q3-2024,452,A
+Bangladesh,Avenger 160,Q4-2024,324,A
+Bangladesh,Platina 110,Q1-2025,535,A
+Bangladesh,Platina 110,Q2-2025,531,A
+Bangladesh,Platina 110,Q3-2024,500,A
+Bangladesh,Platina 110,Q4-2024,471,A
+Bangladesh,Avenger 160,Q3-2025,441,F
+Bangladesh,Avenger 160,Q4-2025,453,F
+Bangladesh,CT100,Q3-2025,523,F
+Bangladesh,CT100,Q4-2025,520,F
+Bangladesh,Dominar 400,Q3-2025,336,F
+Bangladesh,Dominar 400,Q4-2025,270,F
+Bangladesh,Platina 110,Q3-2025,548,F
+Bangladesh,Platina 110,Q4-2025,563,F
+Bangladesh,Pulsar NS200,Q3-2025,441,F
+Bangladesh,Pulsar NS200,Q4-2025,404,F
+Colombia,Avenger 160,Q3-2025,470,F
+Colombia,Avenger 160,Q4-2025,436,F
+Colombia,CT100,Q3-2025,291,F
+Colombia,CT100,Q4-2025,225,F
+Colombia,Dominar 400,Q3-2025,353,F
+Colombia,Dominar 400,Q4-2025,313,F
+Colombia,Platina 110,Q3-2025,392,F
+Colombia,Platina 110,Q4-2025,347,F
+Colombia,Pulsar NS200,Q3-2025,571,F
+Colombia,Pulsar NS200,Q4-2025,594,F
+Egypt,Avenger 160,Q3-2025,840,F
+Egypt,Avenger 160,Q4-2025,981,F
+Egypt,CT100,Q3-2025,423,F
+Egypt,CT100,Q4-2025,373,F
+Egypt,Dominar 400,Q3-2025,714,F
+Egypt,Dominar 400,Q4-2025,764,F
+Egypt,Platina 110,Q3-2025,464,F
+Egypt,Platina 110,Q4-2025,475,F
+Egypt,Pulsar NS200,Q3-2025,514,F
+Egypt,Pulsar NS200,Q4-2025,556,F
+Nigeria,Avenger 160,Q3-2025,390,F
+Nigeria,Avenger 160,Q4-2025,393,F
+Nigeria,CT100,Q3-2025,564,F
+Nigeria,CT100,Q4-2025,600,F
+Nigeria,Dominar 400,Q3-2025,363,F
+Nigeria,Dominar 400,Q4-2025,284,F
+Nigeria,Platina 110,Q3-2025,529,F
+Nigeria,Platina 110,Q4-2025,578,F
+Nigeria,Pulsar NS200,Q3-2025,475,F
+Nigeria,Pulsar NS200,Q4-2025,434,F
+Philippines,Avenger 160,Q3-2025,324,F
+Philippines,Avenger 160,Q4-2025,271,F
+Philippines,CT100,Q3-2025,465,F
+Philippines,CT100,Q4-2025,446,F
+Philippines,Dominar 400,Q3-2025,549,F
+Philippines,Dominar 400,Q4-2025,584,F
+Philippines,Platina 110,Q3-2025,358,F
+Philippines,Platina 110,Q4-2025,337,F
+Philippines,Pulsar NS200,Q3-2025,555,F
+Philippines,Pulsar NS200,Q4-2025,579,F
