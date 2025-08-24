@@ -1,7 +1,9 @@
 # Streamlit run MPHv4.py
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import plotly, sys
+print("Plotly:", plotly.__version__, "Python:", sys.version)
+from plotly import express as px
 from UI import render_forecast_simulator
 
 # Set page config
