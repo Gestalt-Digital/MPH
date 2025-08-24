@@ -5,8 +5,8 @@ import pandas as pd
 # --- Load Data ---
 @st.cache_data
 def load_data():
-    forecast_df = pd.read_csv("bajaj_monthly_forecast_with_mape.csv")
-    elasticity_df = pd.read_csv("Adj_Price_Elasticity.csv")
+    forecast_df = pd.read_csv("data/bajaj_monthly_forecast_with_mape.csv")
+    elasticity_df = pd.read_csv("data/Adj_Price_Elasticity.csv")
     return forecast_df, elasticity_df
 
 def render_forecast_simulator():
